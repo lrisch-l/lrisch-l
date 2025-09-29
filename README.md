@@ -13,6 +13,12 @@ Automated UI testing framework using **Cypress** and **Mochawesome** for rich re
 ### 🔧 [serverest-api](https://github.com/lrisch-l/serverest-api)
 API testing suite powered by **Cypress**, with integrated reporting and automation workflows.
 
+### 🧪 [playwright-api](https://github.com/lrisch-l/playwright-api)
+End-to-end API testing using **Playwright** with custom assertions and environment control.
+
+### 🧪 [playwright-sauce](https://github.com/lrisch-l/playwright-sauce)
+Cross-browser testing with **Playwright** integrated into **Sauce Labs** for scalable automation.
+
 ---
 
 ## 📊 GitHub Activity
