@@ -6,6 +6,16 @@
 💬 Fluent in JavaScript, TypeScript, sarcasm, error messages, and the occasional flaky test
 
 ---
+## 🌐 My Social Networks
+
+<p align="center">
+  <a href="https://www.instagram.com/leandrorisch" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/leandro-risch-38118726a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -25,7 +35,9 @@ Cross-browser testing with **Playwright** integrated into **Sauce Labs** for sca
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lrisch-l&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lrisch-l&show_icons=true&theme=github_dark" width="450"/>
+</p>
 
 ---
 
