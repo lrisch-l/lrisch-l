@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Leandro Risch
+# 👋 Leandro Risch here
 
-💼 QA Engineer based in Juiz de Fora, Brazil  
-🔍 Currently exploring new opportunities and building open-source testing tools
+🧪 QA Engineer by day, bug hunter by night  
+🌍 From Juiz de Fora, Brazil — but my tests run worldwide  
+📊 Obsessed with Cypress, Mochawesome, and making reports look like dashboards  
+💬 I speak fluent JavaScript, sarcasm, and error messages
 
 ---
 
