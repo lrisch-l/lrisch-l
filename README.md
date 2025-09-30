@@ -27,10 +27,10 @@ Cross-browser testing with **Playwright** integrated into **Sauce Labs** for sca
 
 ---
 
-## 🧪 Test Coverage & Reporting (Coming Soon)
+## 📊 Test Reporting
 
-- ✅ CI/CD pipeline already in place  
-- 📈 Dashboard for test coverage in progress  
-- 🚀 Automated deployment of **Mochawesome** reports planned
+- ✅ CI/CD pipeline with GitHub Actions
+- 📄 [Latest Mochawesome Report](https://github.com/lrisch-l/serverest-ui/actions?query=workflow%3A%22Cypress+Tests+with+Mochawesome%22)  
+- 📸 Screenshots captured automatically on test failure
 
 Stay tuned for updates as I continue evolving these projects with deeper insights and better developer experience.
