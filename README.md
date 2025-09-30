@@ -2,8 +2,8 @@
 
 🧪 QA Engineer by day, bug hunter by night  
 🌍 From Juiz de Fora, Brazil — but my tests run worldwide  
-📊 Obsessed with Cypress, Mochawesome, and making reports look like dashboards  
-💬 I speak fluent JavaScript, sarcasm, and error messages
+⚙️ Obsessed with Cypress, Playwright, and turning test reports into dashboards  
+💬 Fluent in JavaScript, TypeScript, sarcasm, error messages, and the occasional flaky test
 
 ---
 
