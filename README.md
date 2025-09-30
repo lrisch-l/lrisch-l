@@ -8,7 +8,7 @@
 ---
 ## 🌐 My Social Networks
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/leandrorisch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
